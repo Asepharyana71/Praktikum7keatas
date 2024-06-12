@@ -1,0 +1,3 @@
+Jari-jari lingkaran: 32.0
+Keliling lingkaran: 201.06192982974676
+Luas lingkaran: 3216.990877275948
