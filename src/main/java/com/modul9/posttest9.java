@@ -1,4 +1,4 @@
-package com.praktikum7atas;
+package com.modul9;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
